@@ -256,7 +256,7 @@ Bug 修复记录：
 
 可视化输出：results/step3_fracture/ 下 12 张代表性图片（每骨骼分组 1 张），覆盖 clavicula、femur、humerus、other、pelvis、rib、scapula、skull、sternum、vertebrae 三组。
 
-阶段二（Voronoi 破碎）：全部成功（120/120）。运行时间约 50.3 秒。平均碎片数 2.92（范围 2 ~ 4），平均最大平移 22.6mm（范围 11.4~30.6mm），断面点平均占比 7.1%（在预期 5%~  20% 范围内）。
+阶段二（Voronoi 破碎）：全部成功（120/120）。运行时间约 50.3 秒。平均碎片数 2.92（范围 2 ~ 4），平均最大平移 22.6mm（范围 11.4 ~ 30.6mm），断面点平均占比 7.1%（在预期 5% ~  20% 范围内）。
 
 可视化输出：results/step3_fracture/phase2/ 下 12 张代表性图片（每骨骼分组 1 张），以及 3 组阶段一 vs 阶段二对比图。交互式 3D HTML 可视化（plotly 生成）由 step3_fracture_phase2.py 内部生成，输出至 results/step3_fracture/phase2_interactive/（12 个 HTML 文件，全量 4096 点不下采样）。
 
