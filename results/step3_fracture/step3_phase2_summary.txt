@@ -1,0 +1,11 @@
+Total requested:  120
+Success:          120
+Skipped (resume): 0
+Failed:           0
+Avg fragments:    2.92
+Max displacement: 22.6mm (avg)
+Boundary points:  7.1% (avg)
+Visualizations:   12/12 groups
+Comparisons:      3/3 groups
+Interactive HTML: 12/12 groups
+Total time:       50.3s

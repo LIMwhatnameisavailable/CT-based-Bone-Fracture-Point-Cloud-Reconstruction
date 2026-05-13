@@ -1,0 +1,6 @@
+Total requested:  120
+Success:          0
+Skipped (resume): 120
+Failed:           0
+Visualizations:   12/12 groups
+Total time:       0.0s

@@ -1,0 +1,31 @@
+Total requested:  24
+Success:          24
+Skipped (resume): 0
+Failed:           0
+Avg fragments:    2.00
+Max displacement: 21.7mm (avg)
+Boundary points:  12.7% (avg)
+Crack vs axis:    48.7° (avg)
+Crack vs cross:   41.3° (avg)
+
+Crack angles by bone group (angle vs main axis):
+  clavicula                : 11.9° ± 3.5°
+  femur                    : 4.8° ± 0.1°
+  humerus                  : 5.3° ± 0.2°
+  other                    : 50.2° ± 39.4°
+  pelvis                   : 47.5° ± 40.5°
+  rib                      : 2.0° ± 1.1°
+  scapula                  : 80.7° ± 5.7°
+  skull                    : 85.2° ± 4.3°
+  sternum                  : 45.6° ± 43.0°
+  vertebrae_cervical       : 85.8° ± 0.3°
+  vertebrae_lumbar         : 78.0° ± 2.2°
+  vertebrae_thoracic       : 87.3° ± 2.0°
+
+  femur mean angle: 4.8° - PASS (< 45°)
+
+  humerus mean angle: 5.3° - PASS (< 45°)
+
+Visualizations:   24/24 entries
+Comparisons:      24/24 entries
+Total time:       59.3s
