@@ -1,0 +1,25 @@
+Total requested:  120
+Success:          120
+Skipped (resume): 0
+Failed:           0
+Total time:       23.5s
+Avg label rate:   7.0%
+Avg Precision:    0.993
+Avg Recall:       0.988
+Avg F1:           0.990
+F1 >= 0.85:       120/120 (100.0%)
+Visualizations:   12/12 groups
+
+F1 by bone group:
+  clavicula                : 0.992 ± 0.003  (n=10)
+  femur                    : 0.994 ± 0.004  (n=10)
+  humerus                  : 0.993 ± 0.006  (n=10)
+  other                    : 0.985 ± 0.009  (n=10)
+  pelvis                   : 0.992 ± 0.006  (n=10)
+  rib                      : 0.990 ± 0.007  (n=10)
+  scapula                  : 0.987 ± 0.005  (n=10)
+  skull                    : 0.986 ± 0.022  (n=10)
+  sternum                  : 0.994 ± 0.004  (n=10)
+  vertebrae_cervical       : 0.991 ± 0.003  (n=10)
+  vertebrae_lumbar         : 0.990 ± 0.003  (n=10)
+  vertebrae_thoracic       : 0.991 ± 0.004  (n=10)

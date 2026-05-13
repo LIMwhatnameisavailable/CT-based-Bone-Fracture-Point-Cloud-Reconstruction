@@ -1,0 +1,7 @@
+Total requested:  120
+Success:          20
+Skipped (resume): 100
+Failed:           0
+Norm magnitude mean: 1.0000 (should be ≈1.0)
+Visualizations:   12/12 groups
+Total time:       0.4s
