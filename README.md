@@ -69,6 +69,9 @@ Available bone labels (total task): femur, humerus, vertebrae (L1–L5, T1–T12
 
 Note: tibia belongs to the `appendicular_bones` subtask in v2 and is **not** present in the small subset.
 
+**Download**: [TotalSegmentator v2 small subset](https://zenodo.org/records/10047292) (`Totalsegmentator_dataset_small_v201.zip`, 3.2 GB).  
+Extract the zip into `data/raw/` — no further preprocessing needed.
+
 ## Directory Structure
 
 ```
