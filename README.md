@@ -95,14 +95,6 @@ code/
 instruction/            # per-step documentation (in Chinese)
 ```
 
-## Visualization Standards
-
-All figures use matplotlib with Times New Roman, 300 DPI output, and consistent sizing:
-- Title ≥ 16pt, axis labels ≥ 14pt, legend ≥ 11pt, ticks ≥ 11pt
-- GridSpec layout, max 2 columns, serif font, hidden top/right spines
-- 3-view projections (front/side/top) use 2D scatter rather than mplot3d
-- CT slice contours in `#E64B35` red
-
 ## Dependencies
 
 - `nibabel` — NIfTI I/O
@@ -115,7 +107,7 @@ All figures use matplotlib with Times New Roman, 300 DPI output, and consistent 
 
 ## Environment
 
-- Windows 11, CPU only (no GPU required)
+- Windows 11, CPU only
 - Single case processing < 15 minutes
 - All intermediate results persisted to disk with resume support
 - Point cloud size: N = 4096 (fixed)
@@ -166,5 +158,4 @@ This project is for research and educational purposes. The TotalSegmentator data
 ---
 
 State Key Laboratory of Digital Medical Engineering
-School of Biological Science and Medical Engineering, Southeast University  
-Contact: 213230182@seu.removethis.edu.cn
+School of Biological Science and Medical Engineering, Southeast University; Contact: 213230182@seu.removethis.edu.cn
