@@ -1,0 +1,36 @@
+============================================================
+Step 0 — Dataset Screening Summary
+============================================================
+Total selected entries: 120
+Total unique cases:     30
+
+--- Per Group Count ---
+  femur                    : 10
+  pelvis                   : 10
+  other                    : 10
+  vertebrae_thoracic       : 10
+  sternum                  : 10
+  scapula                  : 10
+  skull                    : 10
+  clavicula                : 10
+  rib                      : 10
+  vertebrae_cervical       : 10
+  humerus                  : 10
+  vertebrae_lumbar         : 10
+
+Age range:  38 ~ 91
+Mean age:   69.5
+Median age: 73.0
+
+--- Pathology Distribution ---
+  no_pathology             : 84 (70.0%)
+  trauma                   : 36 (30.0%)
+
+--- Volume Statistics (cm^3) ---
+  Total volume: 38772.4
+  Mean volume:  323.1
+  Median volume:90.6
+  Min volume:   14.6
+  Max volume:   2443.7
+
+============================================================
