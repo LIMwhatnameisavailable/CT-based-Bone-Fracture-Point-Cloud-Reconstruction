@@ -181,7 +181,7 @@ pathology分布：no_pathology 84条（70%），trauma 36条（30%），无tumor
 
 重建120个条目全部成功（120/120）。运行时间约80秒（顺序处理，30个case各加载一次CT）。
 
-网格规模：顶点数范围2088~142600，中位数约26206，面片数范围4018~286488。
+网格规模：顶点数范围2088 ~ 142600，中位数约26206，面片数范围4018 ~ 286488。
 
 可视化输出：results/step1_reconstruction/下12张代表性图片（每骨骼分组1张），包括clavicula、femur、humerus、pelvis、rib、scapula、skull、sternum、vertebrae三组及other。
 
