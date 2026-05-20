@@ -58,7 +58,7 @@ TotalSegmentator v2 中，以下骨骼标签在 total task 下可用：
 
 project 根目录下分为以下子目录：
 
-data/raw/ 存放原始下载数据解压后的内容，每个 case 一个子文件夹，如 s0001/，内含 ct.nii.gz 和 segmentations/ 文件夹。summary 文本文件也存放在此。
+data/raw/ 存放原始下载数据解压后的内容，每个 case 一个子文件夹，如 s0011/，内含 ct.nii.gz 和 segmentations/ 文件夹。summary 文本文件也存放在此。
 
 data/meshes/ 存放 Step 1 输出的三角网格文件，命名格式为 s0001_femur_left.ply。
 
