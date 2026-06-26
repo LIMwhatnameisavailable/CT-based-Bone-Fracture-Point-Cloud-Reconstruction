@@ -1,4 +1,4 @@
-# 🦴 CT-Based Bone Fracture Point Cloud Reconstruction Pipeline
+# 🦴 CT-Based Bone Fracture Point Cloud Reconstruction
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/Platform-CPU--only-lightgrey)
